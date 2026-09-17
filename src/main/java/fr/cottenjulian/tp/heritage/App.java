@@ -1,4 +1,4 @@
-package fr.cottenjulian.tp.heritage;
+package java.fr.cottenjulian.tp.heritage;
 
 /**
  * Hello world!
