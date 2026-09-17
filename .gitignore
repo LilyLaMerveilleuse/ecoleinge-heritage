@@ -1,1 +1,5 @@
 ﻿/.idea
+/.mvn/
+/BaseDeJava/.mvn/
+/mvnw
+/mvnw.cmd
